@@ -91,12 +91,16 @@ Deployed 20+ Windows/Linux workstations (-30% provisioning time), monitored 5,00
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shalem2020&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalem2020&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <a href="https://github.com/Shalem2020"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Shalem2020&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=445&v=2" alt="GitHub Stats" /></a>
+  <a href="https://github.com/Shalem2020"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalem2020&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=445&v=2" alt="Top Languages" /></a>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shalem2020&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shalem2020&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
