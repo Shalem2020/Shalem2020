@@ -114,7 +114,7 @@ Deployed 20+ Windows/Linux workstations (-30% provisioning time), monitored 5,00
 ### 🎓 Education
 
 - **M.S. Digital Forensics and Cybersecurity** — University at Albany, SUNY · GPA 3.90 · 2024 – 2026
-- **B.Tech CSE (Cybersecurity & Digital Forensics)** — VIT Bhopal University · 2020 – 2024
+- **B.Tech CSE (Cybersecurity & Digital Forensics)** — VIT University · 2020 – 2024
 
 ---
 
