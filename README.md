@@ -123,7 +123,12 @@ Deployed 20+ Windows/Linux workstations (-30% provisioning time), monitored 5,00
 <p>
   <a href="https://shalem.site"><img src="https://img.shields.io/badge/Portfolio-shalem.site-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
+<p>
+  <a href="mailto:shalemmaddirala518@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shalemmaddirala518%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<p align="center"><i>"Security is not a product, but a process." — Bruce Schneier</i></p>
+<p align="center"><i>"Security is not a product, but a process." - Bruce Schneier</i></p>
