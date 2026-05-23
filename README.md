@@ -88,19 +88,25 @@ Deployed 20+ Windows/Linux workstations (-30% provisioning time), monitored 5,00
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Shalem2020"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Shalem2020&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=445&v=2" alt="GitHub Stats" /></a>
-  <a href="https://github.com/Shalem2020"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalem2020&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=445&v=2" alt="Top Languages" /></a>
+  <a href="https://github.com/Shalem2020?tab=repositories"><img src="https://img.shields.io/github/followers/Shalem2020?style=for-the-badge&logo=github&color=blue&labelColor=1a1b27" alt="Followers" /></a>
+  <a href="https://github.com/Shalem2020?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=blue&labelColor=1a1b27&style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FShalem2020" alt="Public Repos" /></a>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-2ea44f?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-orange?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shalem2020&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Shalem2020&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shalem2020&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shalem2020&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
